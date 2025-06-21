@@ -1,0 +1,25 @@
+# Логи и кэши
+*.log
+*.cache
+*.tmp
+
+# Среда разработки
+.env
+.env.local
+.DS_Store
+.vscode/
+.idea/
+
+# Папки с библиотеками
+node_modules/
+vendor/
+__pycache__
+
+# Файлы ОС
+Thumbs.db
+desktop.ini
+
+# Артефакты сборки
+/dist/
+/build/
+/out/
